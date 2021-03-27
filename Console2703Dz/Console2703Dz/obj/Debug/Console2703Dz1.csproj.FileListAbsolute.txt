@@ -1,0 +1,7 @@
+E:\C#\Console2703Dz\Console2703Dz\bin\Debug\Console2703Dz.exe.config
+E:\C#\Console2703Dz\Console2703Dz\bin\Debug\Console2703Dz.exe
+E:\C#\Console2703Dz\Console2703Dz\bin\Debug\Console2703Dz.pdb
+E:\C#\Console2703Dz\Console2703Dz\obj\Debug\Console2703Dz1.csprojAssemblyReference.cache
+E:\C#\Console2703Dz\Console2703Dz\obj\Debug\Console2703Dz1.csproj.CoreCompileInputs.cache
+E:\C#\Console2703Dz\Console2703Dz\obj\Debug\Console2703Dz.exe
+E:\C#\Console2703Dz\Console2703Dz\obj\Debug\Console2703Dz.pdb
